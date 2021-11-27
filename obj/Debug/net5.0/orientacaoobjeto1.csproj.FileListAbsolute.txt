@@ -1,0 +1,16 @@
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\orientacaoobjeto1.exe
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\orientacaoobjeto1.deps.json
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\orientacaoobjeto1.runtimeconfig.json
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\orientacaoobjeto1.runtimeconfig.dev.json
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\orientacaoobjeto1.dll
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\ref\orientacaoobjeto1.dll
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\bin\Debug\net5.0\orientacaoobjeto1.pdb
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.csproj.AssemblyReference.cache
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.AssemblyInfoInputs.cache
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.AssemblyInfo.cs
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.csproj.CoreCompileInputs.cache
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.dll
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\ref\orientacaoobjeto1.dll
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.pdb
+C:\Users\a775639\source\repos\orientacaoobjeto1\orientacaoobjeto1\obj\Debug\net5.0\orientacaoobjeto1.genruntimeconfig.cache
